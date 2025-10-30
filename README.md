@@ -1,3 +1,3 @@
-# Professional Website of Ryan Cory-Wright
+# Professional Website of Yuze (Richard) Li
 
-[https://ryancorywright.github.io/](https://ryancorywright.github.io/)
+[https://yuzerichardli.github.io/](https://yuzerichardli.github.io/)
