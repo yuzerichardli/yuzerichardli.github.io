@@ -260,11 +260,11 @@ blockquote p:last-child {
   height: 200px;
   margin: 0 auto;
   border-radius: 50%;
-  background-size: 80%;
+  background-size: contain;
   background-repeat: no-repeat;
-  -webkit-background-size: 80%;
+  -webkit-background-size: contain;
   -webkit-background-repeat: no-repeat;
-  -moz-background-size: 80%;
+  -moz-background-size: contain;
   -moz-background-repeat: no-repeat;
 }
 
