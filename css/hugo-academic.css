@@ -260,9 +260,15 @@ blockquote p:last-child {
   height: 250px;
   margin: 0 auto;
   border-radius: 50%;
-  background-size: 50%;
-  -webkit-background-size: 50%;
-  -moz-background-size: 50%;
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  -webkit-background-size: contain;
+  -webkit-background-position: center;
+  background-repeat: no-repeat;
+  -moz-background-size: contain;
+  -moz-background-size: contain;
+  -moz-background-position: center;
 }
 
 #profile .portrait-title h2 {
